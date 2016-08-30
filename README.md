@@ -1,0 +1,6 @@
+# Lifecycle
+activity生命周期监听器
+
+提供了一个单独的监听器来对activity的生命周期进行跟踪，适用于需要对activity的生命周期进行跟踪并且做出统一处理的情况，这样可以不用使所有的
+
+activity继承于一个baseactivity。
